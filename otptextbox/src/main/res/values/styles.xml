@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="otp_style">
+        <item name="colorControlNormal">?attr/colorAccent</item>
+        <item name="colorControlActivated">?attr/colorAccent</item>
+    </style>
+</resources>
